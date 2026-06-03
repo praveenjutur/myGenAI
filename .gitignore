@@ -1,0 +1,4 @@
+1_simple_llm_calling/.env
+2_health_analysis/.env
+4_rag_basics/.env
+venv/
